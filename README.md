@@ -17,7 +17,7 @@ INGENIERO
 
 Ing. Darwin Omar Alulema Flores
 
-# PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
+# PRÁCTICA CASA SMART
   
 </div>
 
